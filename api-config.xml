@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<rootUrl>http://master1.china-plus.net:31080/api</rootUrl>
+	<headers>
+		<!-- 配置为自己的参数 -->
+		<header name="accept" value="*/*"></header>
+		<header name="connection" value="Keep-Alive"></header>
+		<header name="user-agent"
+			value="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36"></header>
+		<header name="Content-type" value="application/json"></header>
+	</headers>
+	<params>
+		<param name="data" value="GgxLXSoPHh4CC0tcWBgAS10qWkBeS1xYAgBLXSpLK1tLVyxLVyxLK1tLLFlLVypLK1lLVy1LVl9LXFgZA0tdKl5cS10vXl5LXS9eXktdL15eS10vXl5LXS9eXktcWBseS10qHx8fHx8fS1xYAgFLXSpLXFgCD0tdKktcWB0aS10qS1xYDQFLXSpLXFgYDUtdKktcWAINS10qS1xYHQZLXSpcXF5WS1xYHRlLXSpfXFpcS1xYHQdLXSpWXlZbS1xYGhhLXSpfX0BdS1xYHgBLXSpLXFgNHEtdKktcWAMdS10qS1xYAwtLXSpfXAsPXFwMDFoPWl0KXVtaWwsPXFpdV11cClgMDFgKDFZcDVwIDwteS1xYDQtLXSpLXFgCCUtdKl9eXl9LXFgbB0tdKl9WWVZeX15YW1dbS1xYDRpLXSpLXFgKHUtdKltdXl5LXFgcGh5LXSoGAQMLS1xYABpLXSo5JygnS1xYGAdLXSpZXV9dS1xYHhxLXSpLK1tLVyxLVyxLK1tLLFlLVypLK1lLVy1LVl9LXFgaA0tdKgc%2BBgEAC1ZLXC1cS1xYHAcKS10qS1xYDQdLXSpYXl5fS1xYHQFLXSoeARwaHA8HGktcWAEYS10qBwEdX19AXUtcWANcS10qX1wLD1xcDAxaD1pdCl1bWlsLD1xaXVddXApYDAxYCgxWXA1cCA8LXktcWBsAS10qX1ZZVl5fXlhbV1s%3D"></param>
+		<param name="verf" value="f53664d62ff8c602c0096a55010a2f3b"></param>
+	</params>
+	<project_name>接口自动化测试报告</project_name>
+</root>
